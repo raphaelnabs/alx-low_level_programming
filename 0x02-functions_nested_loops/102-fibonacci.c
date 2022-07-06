@@ -7,9 +7,8 @@
  */
 int main(void)
 {
-	long int i, j, k, l, next;
+	long int i, j, k, next;
 
-	j = l;
 	k = 2;
 	for (i = 1; i <= 50; ++i)
 	{
